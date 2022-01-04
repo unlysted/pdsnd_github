@@ -16,3 +16,9 @@ Some CSV data files
 
 ### Credits
 This was a collaboration between me and Udacity
+
+### Additional Comments
+For pedagogical reasons, some comments will be added to bikeshare.py
+
+### Documentation Comments
+This marks the beginning of the branch named "documentation"
