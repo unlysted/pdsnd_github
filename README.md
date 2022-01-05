@@ -16,3 +16,6 @@ Some CSV data files
 
 ### Credits
 This was a collaboration between me and Udacity
+
+### Refactoring branch
+This marks the beginning of the branch named "refactoring"
