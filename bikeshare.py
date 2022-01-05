@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# This comment marks the beginning of the branch named "refactoring"
+
 CITY_DATA = { 'chicago': 'chicago.csv','new york city': 'new_york_city.csv','washington': 'washington.csv' }
 
 # Added the word 'all' so the month's calendar number equals its index
